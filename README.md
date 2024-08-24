@@ -6,11 +6,13 @@ Bank Details Manager is a simple desktop application built with Python and Tkint
 
 
 
+
 ## Features 🚀
 - Add new bank accounts with details such as account number, name, balance, email, phone, address, date of birth, account type, and branch.
 - View existing bank accounts in a tabular format.
 - Clear input fields for easy data entry.
 - Refresh the table to see the latest data.
+
 
 
 
@@ -22,6 +24,7 @@ Bank Details Manager is a simple desktop application built with Python and Tkint
   2. MongoDB
 - #### ➡️ For Binary File
   1. Pickle Module
+
 
 
 
@@ -54,7 +57,16 @@ Bank Details Manager is a simple desktop application built with Python and Tkint
 
 
 
+
 ## ScreenShots 🖼️
+## ➡️ Binary File
+![image](https://github.com/user-attachments/assets/b3172f2f-56fa-47f5-8d9b-d312b2169adc)
+
+<br/>
+
+## ➡️ MongoDB
+![image](https://github.com/user-attachments/assets/6f039c3a-ee79-4286-b3b3-e8e4a241d742)
+![image](https://github.com/user-attachments/assets/a64e2357-176e-4ee7-bebe-82adc0805644)
 
 
 

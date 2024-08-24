@@ -111,7 +111,7 @@ def clear_entries():
 
 # ---------------- Window -----------------
 root = tk.Tk()
-root.title("Simple Bank Management System")
+root.title("Bank Record Manager - Binary File")
 root.geometry("600x400")
 
 

@@ -30,7 +30,7 @@ text_color = "#2c3e50"
 
 def create_main_window():
     window = tk.Tk()
-    window.title("Bank Details Manager")
+    window.title("Bank Record Manager - MongoDB")
     window.geometry("1200x800")
     window.configure(bg=bg_color)
 

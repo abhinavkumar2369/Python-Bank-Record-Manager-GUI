@@ -14,6 +14,16 @@ Bank Details Manager is a simple desktop application built with Python and Tkint
 - Refresh the table to see the latest data.
 
 
+## ScreenShots 🖼️
+## ➡️ Binary File
+![image](https://github.com/user-attachments/assets/b3172f2f-56fa-47f5-8d9b-d312b2169adc)
+
+<br/>
+
+## ➡️ MongoDB
+![image](https://github.com/user-attachments/assets/6f039c3a-ee79-4286-b3b3-e8e4a241d742)
+![image](https://github.com/user-attachments/assets/a64e2357-176e-4ee7-bebe-82adc0805644)
+
 
 
 ## Requirements 📝
@@ -54,20 +64,6 @@ Bank Details Manager is a simple desktop application built with Python and Tkint
    ```python
    python Source_Code_Binary_File.py
    ```
-
-
-
-
-## ScreenShots 🖼️
-## ➡️ Binary File
-![image](https://github.com/user-attachments/assets/b3172f2f-56fa-47f5-8d9b-d312b2169adc)
-
-<br/>
-
-## ➡️ MongoDB
-![image](https://github.com/user-attachments/assets/6f039c3a-ee79-4286-b3b3-e8e4a241d742)
-![image](https://github.com/user-attachments/assets/a64e2357-176e-4ee7-bebe-82adc0805644)
-
 
 
 
